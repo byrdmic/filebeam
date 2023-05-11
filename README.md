@@ -14,20 +14,20 @@ FileBeam is a command-line tool for exploring and displaying file contents inter
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/byrdmic/filebeam.git
+`git clone https://github.com/byrdmic/filebeam.git`
 
 
 2. Install the script:
 
-cd filebeam
-sudo cp filebeam.sh /usr/local/bin/filebeam
-sudo chmod +x /usr/local/bin/filebeam
+`cd filebeam`
+`sudo cp filebeam.sh /usr/local/bin/filebeam`
+`sudo chmod +x /usr/local/bin/filebeam`
 
 ## Usage
 
 Run the script in your terminal:
 
-filebeam
+`filebeam`
 
 ### Options
 
